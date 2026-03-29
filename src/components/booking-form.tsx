@@ -72,7 +72,7 @@ export default function BookingForm() {
                 </span>
                 <div>
                   <div className="font-bold text-[#1B365D]">Direct Line</div>
-                  <a href="tel:+19155550100" className="text-[#2D2D2D] hover:text-[#C8553D] transition-colors">(915) 555-0100</a>
+                  <a href="tel:+19157016355" className="text-[#2D2D2D] hover:text-[#C8553D] transition-colors">(915) 701-6355</a>
                 </div>
               </div>
               <div className="flex items-start space-x-4">

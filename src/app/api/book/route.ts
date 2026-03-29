@@ -45,9 +45,9 @@ export async function POST(request: Request) {
         <h2 style="color:#1B365D;">Thank you, ${fullName}.</h2>
         <p>We received your request for <strong>${serviceType || "interpretation"}</strong> services${dateNeeded ? ` on ${dateNeeded}` : ""}.</p>
         <p>Our scheduling team will contact you within 60 minutes during business hours (Mon-Fri, 8 AM - 6 PM MT).</p>
-        <p>If you need immediate assistance, call us at <strong>(915) 555-0100</strong>.</p>
+        <p>If you need immediate assistance, call us at <strong>(915) 701-6355</strong>.</p>
         <br/>
-        <p style="color:#666;font-size:12px;">El Paso Interpreters<br/>El Paso, TX 79901<br/>(915) 555-0100</p>
+        <p style="color:#666;font-size:12px;">El Paso Interpreters<br/>El Paso, TX 79901<br/>(915) 701-6355</p>
       `,
     });
 

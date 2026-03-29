@@ -24,10 +24,10 @@ export default function Hero() {
               Book an Interpreter
             </a>
             <a
-              href="tel:+19155550100"
+              href="tel:+19157016355"
               className="border-2 border-[#1B365D] text-[#1B365D] px-8 py-4 rounded font-bold uppercase tracking-wide hover:bg-[#1B365D] hover:text-white transition-all text-center"
             >
-              Call (915) 555-0100
+              Call (915) 701-6355
             </a>
           </div>
         </div>

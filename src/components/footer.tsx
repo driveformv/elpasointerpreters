@@ -78,7 +78,7 @@ export default function Footer() {
           <ul className="space-y-3">
             <li className="flex items-center space-x-2">
               <span className="material-symbols-outlined text-xs">call</span>
-              <a href="tel:+19155550100" className="text-[#E8E8E6]/80 hover:text-white transition-colors">(915) 555-0100</a>
+              <a href="tel:+19157016355" className="text-[#E8E8E6]/80 hover:text-white transition-colors">(915) 701-6355</a>
             </li>
             <li className="flex items-center space-x-2">
               <span className="material-symbols-outlined text-xs">schedule</span>
@@ -95,7 +95,7 @@ export default function Footer() {
       </div>
       <div className="max-w-7xl mx-auto px-6 mt-16 pt-8 border-t border-white/10 text-center">
         <p className="text-[#E8E8E6]/60 text-xs">
-          2024 El Paso Interpreters. All rights reserved.
+          2026 El Paso Interpreters. All rights reserved.
         </p>
       </div>
     </footer>

@@ -35,13 +35,13 @@ export default function Nav() {
         <div className="flex items-center space-x-4 sm:space-x-6">
           {/* Mobile click-to-call */}
           <a
-            href="tel:+19155550100"
+            href="tel:+19157016355"
             className="lg:hidden text-[#C8553D] p-2"
-            aria-label="Call (915) 555-0100"
+            aria-label="Call (915) 701-6355"
           >
             <span className="material-symbols-outlined text-2xl">call</span>
           </a>
-          <a href="tel:+19155550100" className="hidden lg:block text-[#1B365D] font-semibold text-sm hover:text-[#C8553D] transition-colors">(915) 555-0100</a>
+          <a href="tel:+19157016355" className="hidden lg:block text-[#1B365D] font-semibold text-sm hover:text-[#C8553D] transition-colors">(915) 701-6355</a>
           <a
             href="#contact"
             className="hidden sm:inline-block bg-[#C8553D] text-white px-6 py-2.5 rounded text-sm font-semibold uppercase tracking-wider hover:bg-[#b04a35] transition-all duration-300"

@@ -17,7 +17,7 @@ const jsonLd = {
       url: "https://elpasointerpreters.com",
       description:
         "Professional English-to-Spanish and Spanish-to-English interpretation services in El Paso, TX. Certified interpreters for legal, medical, business, and government settings.",
-      telephone: "+1-915-555-0100",
+      telephone: "+1-915-701-6355",
       address: {
         "@type": "PostalAddress",
         addressLocality: "El Paso",

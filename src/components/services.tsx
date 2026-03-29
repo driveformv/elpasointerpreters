@@ -84,7 +84,7 @@ export default function Services() {
           >
             Book an Interpreter
           </a>
-          <p className="mt-3 text-[#2D2D2D]/60 text-sm">Need one today? Call <a href="tel:+19155550100" className="text-[#1B365D] font-semibold hover:text-[#C8553D]">(915) 555-0100</a></p>
+          <p className="mt-3 text-[#2D2D2D]/60 text-sm">Need one today? Call <a href="tel:+19157016355" className="text-[#1B365D] font-semibold hover:text-[#C8553D]">(915) 701-6355</a></p>
         </div>
       </div>
     </section>
